@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Yashwant%20Raja%20R&fontSize=50&fontColor=fff&fontAlignY=35&desc=Cloud%20%26%20DevOps%20Engineer%20%7C%20AWS%20%7C%20Kubernetes%20%7C%20Terraform%20%7C%20GitOps&descAlignY=58&descSize=18&descColor=c9d1d9)
+![header](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=4000&pause=1000&color=70A5FD&center=true&vCenter=true&width=1000&height=100&lines=Hi+%F0%9F%91%8B+I%27m+Yashwant+Raja+R)
 
 <div align="center">
 
@@ -123,10 +123,10 @@ print(me.motto())
 <div align="center">
 
 <a href="https://github.com/yashwantraja">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=yashwantraja&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=yashwantraja&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10&rank_icon=github&cache_seconds=86400"/>
 </a>
 <a href="https://github.com/yashwantraja">
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashwantraja&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashwantraja&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10&cache_seconds=86400"/>
 </a>
 
 </div>
@@ -157,7 +157,9 @@ print(me.motto())
 
 <div align="center">
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=yashwantraja&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4&margin-w=8&margin-h=8)](https://github.com/ryo-ma/github-profile-trophy)
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=yashwantraja&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4&margin-w=8&margin-h=8" alt="yashwantraja trophies"/>
+</a>
 
 </div>
 
