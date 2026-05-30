@@ -1,8 +1,6 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Yashwant%20Raja%20R&fontSize=50&fontColor=fff&fontAlignY=35&desc=Cloud%20%26%20DevOps%20Engineer%20%7C%20AWS%20%7C%20Kubernetes%20%7C%20Terraform%20%7C%20GitOps&descAlignY=58&descSize=18&descColor=c9d1d9)
+
 <div align="center">
-
-# 👋 Hi, I'm Yashwant Raja R
-
-### Cloud & DevOps Engineer | AWS | Kubernetes | Terraform | GitOps
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Cloud+%26+DevOps+Engineer+%7C+5+Years;AWS+Certified+Solutions+Architect;Kubernetes+%7C+Terraform+%7C+GitOps+Specialist;Automating+Infrastructure+at+Scale)](https://git.io/typing-svg)
 
@@ -293,3 +291,5 @@ print(me.motto())
 ⭐️ From [yashwantraja](https://github.com/yashwantraja) — If you found this helpful, give the repo a star!
 
 </div>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)
